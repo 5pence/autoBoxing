@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BankAccount" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DayOfWeek" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DigitSum" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FeetAndInches" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MinAndMaxInput" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SecondsAndMinutes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SimpleCalculator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Sum3And5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Switch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/UserInput" vcs="Git" />
+  </component>
+</project>
